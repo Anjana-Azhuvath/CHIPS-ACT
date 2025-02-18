@@ -22,9 +22,18 @@ Short-Term Volatility, Long-Term Stability: Initial stock price drops occurred u
 Smaller Firms Benefited More: Companies with a high incentive-to-market capitalization ratio had stronger positive abnormal returns.
 ## Visualizations
 The repository includes key plots to illustrate findings:
+1. Abnormal Returns of CHIPS Act Recipients – Stock performance around announcement dates.
+2. Cumulative Abnormal Returns Over Time – Long-term market response.
+3. Incentive-Size Ratio vs. CAR – Relationship between grant size and stock performance.
+4. Stock Volatility Before vs. After Grant – Market reactions to CHIPS Act funding.
+5. Market Capitalization vs. Impact – How firm size influenced the grant’s effect.
 
-Abnormal Returns of CHIPS Act Recipients – Stock performance around announcement dates.
-Cumulative Abnormal Returns Over Time – Long-term market response.
-Incentive-Size Ratio vs. CAR – Relationship between grant size and stock performance.
-Stock Volatility Before vs. After Grant – Market reactions to CHIPS Act funding.
-Market Capitalization vs. Impact – How firm size influenced the grant’s effect.
+## Contributors
+Nameera Ali
+Anjana Azhuvath
+Kenny Evans
+
+## License
+MIT License.
+
+
